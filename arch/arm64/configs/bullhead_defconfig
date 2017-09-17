@@ -5,7 +5,7 @@
 # ----------------------------------------------------------------------------------
 # Kernel name
 # ----------------------------------------------------------------------------------
-CONFIG_LOCALVERSION="-bullhead-YAOSPA-NG-7.1.2-VictorLapin-v1.0a"
+CONFIG_LOCALVERSION="-bullhead-YAOSPA-NG-7.1.2-VictorLapin-v1.0b"
 # CONFIG_LOCALVERSION_AUTO is not set
 
 # ----------------------------------------------------------------------------------
